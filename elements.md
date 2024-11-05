@@ -44,8 +44,8 @@ nav-menu: true
 	</div>
 </div>
 
-</section>
-
+<!-- <h1>Curriculum Vitae<br></h1> -->
+<hr class="major" />
 <section id="one">
 	<div class="inner">
 		<header class="major">
