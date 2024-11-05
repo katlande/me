@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Summary</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This is where the summary goes.</p>
 	</div>
 </section>
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Data Visualization</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Publication-ready figures</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,11 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Analysis & Experimental Design Consulting</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is what that means idk.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -60,11 +60,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Foolproof Data Analysis</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>description idk.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +75,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Teaching & Tutorials</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Hands-on guided analysis lessons.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="generic.html" class="button next">Learn More</a></li>
 		</ul>
 	</div>
 </section>
