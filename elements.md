@@ -48,7 +48,7 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-<h2>Curriculum Vitae<br></h2>
+<h1>Curriculum Vitae<br></h1>
 </div>
 
 <div class="row">
@@ -61,7 +61,7 @@ nav-menu: true
 
 
 <h3>Education</h3>
-<hr class="major" />
+<!-- <hr class="major" /> -->
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
