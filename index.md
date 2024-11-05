@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Bioinformatics, simplified.'
 description: null
-image: assets/images/matrix_effect.gif
+image:
 author: null
 show_tile: false
 ---
