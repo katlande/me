@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Summary</h2>
+			<h2>Make your data work for you.</h2>
 		</header>
-		<p>This is where the summary goes.</p>
+		<p>Are you overwhelmed by your bioinformatics datasets, or worried that you're not getting everything you can get from your big data experiments? See my list of services below, or contact me for a free consultation to discuss what's possible with a little bit of expert help.</p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data Visualization</h3>
+					<h3>High-Quality Data Visualization</h3>
 				</header>
-				<p>Publication-ready figures</p>
+				<p>Turn your data into publication-ready figures.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Analysis & Experimental Design Consulting</h3>
 				</header>
-				<p>This is what that means idk.</p>
+				<p>Set your experiments up for success from the get-go.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Foolproof Data Analysis</h3>
 				</header>
-				<p>description idk.</p>
+				<p>Worry-free, best practices data analysis for fast and accurate results.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Teaching & Tutorials</h3>
 				</header>
-				<p>Hands-on guided analysis lessons.</p>
+				<p>Hands-on guided bioinformatics lessons for scientists of all experience levels.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
@@ -94,7 +94,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Other Services</h3>
 				</header>
-				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, Shiny App development, and more. Contact me to learn what's possible.</p>
+				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, webtool and Shiny app setup, archive data analysis, and more. Contact me to learn what's possible.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
