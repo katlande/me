@@ -50,6 +50,8 @@ nav-menu: true
 <div class="row">
 <h2>Curriculum Vitae</h2>
 <hr class="major" />
+
+<div class="10u 12u$(medium)"> 
 <h4>Summary</h4>
 <hr class="major" />
 		<ul class="alt">
@@ -57,6 +59,8 @@ nav-menu: true
 			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
 			<li><b>General Skills:</b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
 		</ul>
+
+</div>
 <hr class="major" />
 <h4>Education</h4>
 <hr class="major" />
