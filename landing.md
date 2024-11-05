@@ -2,7 +2,7 @@
 title: Services
 layout: landing
 description:
-image: assets/images/pic07.jpg
+image: assets/images/matrix_effect.gif
 nav-menu: true
 ---
 
