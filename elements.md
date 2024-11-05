@@ -48,7 +48,7 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-<h3>Curriculum Vitae</h3>
+<h2>Curriculum Vitae</h2>
 <hr class="major" />
 <h4>Summary</h4>
 <hr class="minor" />
