@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: assets/images/pic01.jpg
+image: assets/images/DSC00609.jpg
 nav-menu: true
 ---
 
@@ -47,9 +47,9 @@ nav-menu: true
 <hr class="major" />
 <hr class="major" />
 
-<div class="row">
+
 <h1>Curriculum Vitae<br></h1>
-</div>
+
 
 <div class="row">
 	<ul class="alt">
@@ -90,7 +90,7 @@ nav-menu: true
 
 <!-- <hr class="major" /> -->
 <h3>Work History</h3>
-<hr class="major" />
+<!-- <hr class="major" />-->
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -131,9 +131,9 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-<hr class="major" />
+<!--<hr class="major" />-->
 <h3>Volunteer Work</h3>
-<hr class="major" />
+<!--<hr class="major" />-->
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -174,9 +174,9 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-<hr class="major" />
+<!--<hr class="major" />-->
 <h3>Publicaton History</h3>
-<hr class="major" />
+<!--<hr class="major" />-->
 		<ul>
 			<li>paper 1...</li>
 			<li>paper 2...</li>
