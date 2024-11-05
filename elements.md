@@ -49,14 +49,14 @@ nav-menu: true
 <div class="row">
 <h3>Curriculum Vitae</h3>
 <hr class="minor" />
-<h5>Summary</h5>
+<h4>Summary</h4>
 		<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b>b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
 			<li><b>Analysis Experience:</b>b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
 			<li><b>General Skills:</b>b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
 		</ul>
 <hr class="minor" />
-<h5>Education</h5>
+<h4>Education</h4>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -83,7 +83,7 @@ nav-menu: true
 	</table>
 </div>
 <hr class="minor" />
-<h5>Work History</h5>
+<h4>Work History</h4>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -125,7 +125,7 @@ nav-menu: true
 	</table>
 </div>
 <hr class="minor" />
-<h5>Volunteer Work</h5>
+<h4>Volunteer Work</h4>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -167,7 +167,7 @@ nav-menu: true
 	</table>
 </div>
 <hr class="minor" />
-<h5>Publicaton History</h5>
+<h4>Publicaton History</h4>
 		<ul>
 			<li>paper 1...</li>
 			<li>paper 2...</li>
