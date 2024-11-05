@@ -50,11 +50,9 @@ nav-menu: true
 <div class="row">
 	<h2>Curriculum Vitae<br></h2>
 </div>
-<hr class="major" />
 
 <div class="row">
-	<h4>Summary<br></h4>
-<hr class="major" />
+	<h3>Summary</h3>
 		<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
 			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
@@ -62,9 +60,8 @@ nav-menu: true
 		</ul>
 </div>
 
-<div class="row">
-<hr class="major" />
-<h4>Education</h4>
+<div class="row"> 
+	<h3>Education</h3>
 <hr class="major" />
 <div class="table-wrapper">
 	<table class="alt">
@@ -91,6 +88,8 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
+</div>
+
 <hr class="major" />
 <h4>Work History</h4>
 <hr class="major" />
