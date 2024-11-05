@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About</h1>
+			<h1>Recent News</h1>
 		</header>
 
 
@@ -44,11 +44,15 @@ nav-menu: true
 	</div>
 </div>
 
-<hr class="major" />
-<hr class="major" />
+</section>
 
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Curriculum Vitae</h1>
+		</header>
 
-<h1>Curriculum Vitae<br></h1>
+<!-- <h1>Curriculum Vitae<br></h1> -->
 
 <ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
