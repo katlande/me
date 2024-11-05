@@ -20,7 +20,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">About Kat</h2>
 <p>Information goes here.</p>
-
+<div class="row">
 <div class="4u 12u$(medium)">
 		<h3>Update 1 - September 2024</h3>
 		<p>info...</p>
@@ -46,6 +46,7 @@ nav-menu: true
 
 <hr class="major" />
 
+<div class="row">
 <h3>Curriculum Vitae</h3>
 
 <h5>Summary</h5>
@@ -172,7 +173,7 @@ nav-menu: true
 			<li>paper 2...</li>
 			<li>paper 3...</li>
 		</ul>
-
+</div>
 </section>
 
 </div>
