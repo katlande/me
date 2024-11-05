@@ -18,7 +18,7 @@ nav-menu: true
 
 
 <!-- Content -->
-<h2 id="content">About Kat</h2>
+<!--  <h2 id="content">About Kat</h2> -->
 <p>Information goes here.</p>
 <div class="row">
 <div class="4u 12u$(medium)">
@@ -48,14 +48,14 @@ nav-menu: true
 
 <div class="row">
 <h3>Curriculum Vitae</h3>
-
+<hr class="minor" />
 <h5>Summary</h5>
 		<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b>b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
 			<li><b>Analysis Experience:</b>b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
 			<li><b>General Skills:</b>b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
 		</ul>
-
+<hr class="minor" />
 <h5>Education</h5>
 <div class="table-wrapper">
 	<table class="alt">
@@ -82,7 +82,7 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-
+<hr class="minor" />
 <h5>Work History</h5>
 <div class="table-wrapper">
 	<table class="alt">
@@ -124,7 +124,7 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-
+<hr class="minor" />
 <h5>Volunteer Work</h5>
 <div class="table-wrapper">
 	<table class="alt">
@@ -166,7 +166,7 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-
+<hr class="minor" />
 <h5>Publicaton History</h5>
 		<ul>
 			<li>paper 1...</li>
