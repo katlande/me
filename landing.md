@@ -69,17 +69,48 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Teaching & Tutorials</h3>
+				</header>
+				<p>Hands-on guided analysis lessons.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Other Services</h3>
+				</header>
+				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, Shiny App development, and more. Contact me to learn what's possible.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
-
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Teaching & Tutorials</h2>
+			<h2>Work with Me</h2>
 		</header>
-		<p>Hands-on guided analysis lessons.</p>
+		<p> </p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Learn More</a></li>
+			<li><a href="generic.html" class="button next">See Rates</a></li>
 		</ul>
 	</div>
 </section>
