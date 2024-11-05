@@ -48,11 +48,11 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-	<h2>Curriculum Vitae<br></h2>
+<h2>Curriculum Vitae<br></h2>
 </div>
 
 <div class="row">
-	<h3>Summary</h3>
+	<!-- <h3>Summary</h3> -->
 		<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
 			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
@@ -60,8 +60,8 @@ nav-menu: true
 		</ul>
 </div>
 
-<div class="row"> 
-	<h3>Education</h3>
+
+<h3>Education</h3>
 <hr class="major" />
 <div class="table-wrapper">
 	<table class="alt">
@@ -88,10 +88,9 @@ nav-menu: true
 		</tfoot>
 	</table>
 </div>
-</div>
 
 <hr class="major" />
-<h4>Work History</h4>
+<h3>Work History</h3>
 <hr class="major" />
 <div class="table-wrapper">
 	<table class="alt">
@@ -134,7 +133,7 @@ nav-menu: true
 	</table>
 </div>
 <hr class="major" />
-<h4>Volunteer Work</h4>
+<h3>Volunteer Work</h3>
 <hr class="major" />
 <div class="table-wrapper">
 	<table class="alt">
@@ -177,7 +176,7 @@ nav-menu: true
 	</table>
 </div>
 <hr class="major" />
-<h4>Publicaton History</h4>
+<h3>Publicaton History</h3>
 <hr class="major" />
 		<ul>
 			<li>paper 1...</li>
