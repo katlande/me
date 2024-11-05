@@ -51,8 +51,7 @@ nav-menu: true
 <h2>Curriculum Vitae</h2>
 <hr class="major" />
 
-<div class="10u 12u$(medium)"> 
-<h4>Summary</h4>
+<h4>Summary<br></h4>
 <hr class="major" />
 		<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
@@ -60,7 +59,6 @@ nav-menu: true
 			<li><b>General Skills:</b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
 		</ul>
 
-</div>
 <hr class="major" />
 <h4>Education</h4>
 <hr class="major" />
