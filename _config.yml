@@ -1,9 +1,9 @@
 # site settings
 title: Kat Lande
-subtitle: test
+subtitle: Bioinformatics
 email: kathryn.lande@mail.mcgill.ca
 #description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-description: test test test test test<br /> and also, test.
+description: No more stressing over big data.
 baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "https://katlande.github.io/" #the base hostname & protocol for your site
 author:
