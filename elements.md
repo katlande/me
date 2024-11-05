@@ -52,8 +52,7 @@ nav-menu: true
 </div>
 
 <div class="row">
-	<!-- <h3>Summary</h3> -->
-		<ul class="alt">
+	<ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
 			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
 			<li><b>General Skills:</b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
@@ -89,7 +88,7 @@ nav-menu: true
 	</table>
 </div>
 
-<hr class="major" />
+<!-- <hr class="major" /> -->
 <h3>Work History</h3>
 <hr class="major" />
 <div class="table-wrapper">
