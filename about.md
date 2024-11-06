@@ -184,7 +184,7 @@ nav-menu: true
 			<li><b>2024 Co-Author, npj Systems Biology and Applications</b> M Trogdon et al, Systems modeling of oncogenic G-protein and GPCR signaling reveals unexpected differences in downstream pathway activation. Doi: 10.1038/s41540-024-00400-1</li>
 			<li><b>2024 Co-Author, JCI Insight</b> JC Lumibao et al, The impact of extracellular matrix on the precision medicine utility of pancreatic cancer patient-derived organoids. Doi: 10.1172/jci.insight.172419</li>
 			<li><b>2023 Co-Author, Cell</b> Y Takahashi et al, Transgenerational inheritance of acquired epigenetic signatures at CpG islands in mice. Doi: 10.1016/j.cell.2022.12.047</li>
-			<li><b>2021 Co-Author, Nature</b> M Todesco et al, Massive haplotypes underlie ecotypic differentiation in sunflowers. Doi: 10.1038/s41586-020-2467-6</li>
+			<li><b>2020 Co-Author, Nature</b> M Todesco et al, Massive haplotypes underlie ecotypic differentiation in sunflowers. Doi: 10.1038/s41586-020-2467-6</li>
 		</ul>
 
 <h4>Preprints</h4>
