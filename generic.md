@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Contact
-description: test test test
+description:
 image: assets/images/pexels-cottonbro-5077044.jpg
 nav-menu: true
 ---
