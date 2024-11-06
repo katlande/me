@@ -6,7 +6,14 @@ image: assets/images/pexels-cottonbro-5077044.jpg
 nav-menu: true
 ---
 
-This is a test.
+
+
+<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	This is a test.
 
 <h3>Form</h3>
 
@@ -65,3 +72,7 @@ This is a test.
 		</div>
 	</div>
 </form>
+</section>
+</div>
+
+
