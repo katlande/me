@@ -15,7 +15,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<h3>Form</h3>
+<h3>Email me:</h3>
 
 <form method="post" action="#">
 	<div class="row uniform">
