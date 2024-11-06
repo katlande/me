@@ -2,7 +2,7 @@
 layout: landing
 title: Rates
 description: 
-image: assets/images/DSC_0067.JPG
+image: assets/images/pexels-pixabay-164686.jpg
 show_tile: false
 ---
 
