@@ -64,7 +64,7 @@ nav-menu: false
 				</header>
 				<p>Worry-free, best practices data analysis for fast and accurate results.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn More</a></li>
+					<li><a href="analysis.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: false
 				</header>
 				<p>Hands-on guided bioinformatics lessons for scientists of all experience levels.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn More</a></li>
+					<li><a href="learn.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -96,7 +96,7 @@ nav-menu: false
 				</header>
 				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, webtool creation, experimental design consulting, and more. Contact me to learn what's possible.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn More</a></li>
+					<li><a href="other.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
