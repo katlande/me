@@ -13,7 +13,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Make your data work for you.</h2>
+			<h2>Make the most of your data.</h2>
 		</header>
 		<p>Are you overwhelmed by your bioinformatics datasets, or worried that you're not getting everything you can get from your big data experiments? See my list of services below, or contact me for a free consultation to discuss what's possible with a little bit of expert help.</p>
 	</div>
@@ -37,7 +37,7 @@ nav-menu: false
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -52,7 +52,7 @@ nav-menu: false
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section>-->
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
@@ -94,7 +94,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Other Services</h3>
 				</header>
-				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, webtool and Shiny app setup, archive data analysis, and more. Contact me to learn what's possible.</p>
+				<p>Don't see what you're looking for? I offer a variety of other services including custom pipeline development, webtool creation, experimental design consulting, and more. Contact me to learn what's possible.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn More</a></li>
 				</ul>
