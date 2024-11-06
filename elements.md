@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Kat
 image: assets/images/DSC00609.jpg
 nav-menu: true
 ---
