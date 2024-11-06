@@ -2,7 +2,7 @@
 layout: landing
 title: Foolproof Data Analysis
 description: 
-image: assets/images/simple_graph.png
+image: assets/images/matrix_effect.gif
 show_tile: false
 ---
 
