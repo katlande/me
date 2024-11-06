@@ -2,7 +2,7 @@
 layout: landing
 title: Other Services
 description: 
-image: assets/images/DSC_0067.JPG
+image: assets/images/pexels-stefan-prutsch-17881061-6470920.jpg
 show_tile: false
 ---
 
