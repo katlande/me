@@ -2,7 +2,7 @@
 title: Services
 layout: landing
 description:
-image: assets/images/matrix_effect.gif
+image: assets/images/exels-alesiakozik-6781273.jpg
 nav-menu: true
 ---
 
