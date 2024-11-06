@@ -3,6 +3,7 @@ layout: landing
 title: High-Quality Data Visualization
 description: 
 image: assets/images/DSC_0067.JPG
+show_tile: false
 ---
 
 <div id="main">
