@@ -22,7 +22,7 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="viz.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -54,7 +54,7 @@ nav-menu: false
 		</div>
 	</section>-->
 	<section>
-		<a href="generic.html" class="image">
+		<a href="analysis.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -70,7 +70,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="learn.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -86,7 +86,7 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="other.html" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -110,7 +110,7 @@ nav-menu: false
 		</header>
 		<p> </p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">See Rates</a></li>
+			<li><a href="rates.html" class="button next">See Rates</a></li>
 		</ul>
 	</div>
 </section>
