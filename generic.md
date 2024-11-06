@@ -2,7 +2,7 @@
 layout: post
 title: Contact
 description: test test test
-image: assets/images/DSC_0067.JPG
+image: assets/images/pexels-cottonbro-5077044.jpg
 nav-menu: true
 ---
 
