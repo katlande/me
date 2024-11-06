@@ -2,7 +2,7 @@
 layout: landing
 title: Teaching & Tutorials
 description: 
-image: assets/images/pexels-polina-tankilevitch-6929185.jpg
+image: assets/images/pexels-polina-tankilevitch-6929190.jpg
 show_tile: false
 ---
 
