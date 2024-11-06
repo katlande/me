@@ -19,7 +19,7 @@ nav-menu: true
 
 <div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<form action="https://formspree.io/f/xanyoqpe" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" />
