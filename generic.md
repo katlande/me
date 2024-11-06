@@ -13,7 +13,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	This is a test.
+	<div class="inner">
 
 <h3>Form</h3>
 
@@ -72,6 +72,7 @@ nav-menu: true
 		</div>
 	</div>
 </form>
+</div>
 </section>
 </div>
 
