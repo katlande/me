@@ -38,7 +38,7 @@ nav-menu: true
 				</ul>
 			</form>
 		</section>
-
+</div>
 </div>
 </section>
 </div>
