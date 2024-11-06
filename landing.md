@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Turn your data into publication-ready figures.</p>
 				<ul class="actions">
-					<li><a href="_services/viz.html" class="button">Learn More</a></li>
+					<li><a href="viz.html" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
