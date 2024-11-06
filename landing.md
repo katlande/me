@@ -2,7 +2,7 @@
 title: Services
 layout: landing
 description:
-image: assets/images/exels-alesiakozik-6781273.jpg
+image: assets/images/pexels-alesiakozik-6781273.jpg
 nav-menu: true
 ---
 
