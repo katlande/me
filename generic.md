@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Contact
 description: test test test
 image: assets/images/pexels-cottonbro-5077044.jpg
