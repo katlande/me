@@ -2,7 +2,7 @@
 layout: landing
 title: High-Quality Data Visualization
 description: 
-image: assets/images/DSC_0067.JPG
+image: assets/images/UMAPs.png
 show_tile: false
 ---
 
