@@ -180,9 +180,20 @@ nav-menu: true
 <h3>Publicaton History</h3>
 <!--<hr class="major" />-->
 		<ul>
-			<li>paper 1...</li>
-			<li>paper 2...</li>
-			<li>paper 3...</li>
+			<li><b>2024 Author, Bioinformatics</b> K Lande & A Williams, PCBS: an R package for fast and accurate analysis of bisulfite sequencing data. Doi: 10.1093/bioinformatics/btae593</li>
+			<li><b>2024 Co-Author, npj Systems Biology and Applications</b>M Trogdon et al, Systems modeling of oncogenic G-protein and GPCR signaling reveals unexpected differences in downstream pathway activation. Doi: 10.1038/s41540-024-00400-1</li>
+			<li><b>2024 Co-Author, JCI Insight</b>JC Lumibao et al, The impact of extracellular matrix on the precision medicine utility of pancreatic cancer patient-derived organoids. Doi: 10.1172/jci.insight.172419</li>
+			<li><b>2023 Co-Author, Cell</b>Y Takahashi et al, Transgenerational inheritance of acquired epigenetic signatures at CpG islands in mice. Doi: 10.1016/j.cell.2022.12.047</li>
+			<li><b>2021 Co-Author, Nature</b>M Todesco et al, Massive haplotypes underlie ecotypic differentiation in sunflowers. Doi: 10.1038/s41586-020-2467-6</li>
+		</ul>
+
+<h4>Preprints</h4>
+<!--<hr class="major" />-->
+		<ul>
+			<li><b>2024 Co-Author, BioRXiv</b>V Osorio-Vasquez et al, Identification of molecular and functional subtypes using chronic pancreatitis patient-derived organoid models. Doi: 10.1101/2024.10.30.620903</li>
+			<li><b>2024 Co-Author, BioRXiv</b>A Havas et al, Activated Interferon Signaling Suppresses Age-Dependent Liver Cancer. Doi: 10.1101/2024.07.31.606057</li>
+			<li><b>2024 Co-Author, BioRXiv</b>N Illouz-Eliaz et al, Stress Recovery Triggers Rapid Transcriptional Reprogramming and Activation of Immunity in Plants. Doi: 10.1101/2023.02.27.530256</li>
+			<li><b>2021 Author, UBC Theses and Dissertations Open Collection</b>K Lande, Genomic Characterization of Divergent Haplotypes of Large Structural Variants in the Genus Helianthus. Doi: 10.14288/1.0397228</li>
 		</ul>
 </div>
 </section>
