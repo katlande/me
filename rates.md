@@ -11,7 +11,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Service Rates.</h2>
+			<h2>Service Rates</h2>
 		</header>
 		<p>At this time, I accept contracts paid in both USD and CAD, and have right to work status in both the United States and Canada.</p>
 		<p>Service rates vary from contract to contract based on project complexity and the entity requesting services. I offer both fixed-rate contracts for individual projects, and hourly rate contracts for more flexible needs. Currently, I offer the following discounts:</p>
