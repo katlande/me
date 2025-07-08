@@ -15,11 +15,8 @@ nav-menu: true
 			<h1>Recent News</h1>
 		</header>
 
-
-
 <!-- Content -->
 <!--  <h2 id="content">About Kat</h2> -->
-<p>Information goes here.</p>
 <div class="row">
 
   <div class="4u 12u$(medium)">
