@@ -22,8 +22,8 @@ nav-menu: true
 <p>Information goes here.</p>
 <div class="row">
 <div class="4u 12u$(medium)">
-		<h3>Update 1 - September 2024</h3>
-		<p>info...</p>
+		<h3>A New Method for R-Based DMR Calling - October 2024</h3>
+		<p>My package whole genome bisulfite analysis package "PCBS" was pulished in [Oxford Bioinformatics]([https://pages.github.com/](https://academic.oup.com/bioinformatics/article/40/10/btae593/7811138)) today. What started as a pet project aimed at streamlining R-based WGBS analyses turned into a much bigger project when I investigated the accuracy of existing DMR callers in simulated data.</p>
 	<ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
