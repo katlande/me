@@ -19,7 +19,7 @@ show_tile: false
   <li>RNAseq Analysis in R</li>
   <li>Whole Genome/Exome Sequencing Crash Course</li>
 </ol>
-<p>Generally speaking, teaching contracts involve 1-3 lessons with your student(s), as well as a set number of hours of access to mentorship via zoom calls and email questions.</p>
+<p>Generally speaking, teaching contracts involve 1-3 lessons with your student(s), as well as a set number of hours of access to mentorship via zoom calls and email questions. <a href="mailto:kathryn.lande@mail.mcgill.ca">Reach out</a> for a free consultation to get rates and learn more.</p>
 	</div>
 </section>
 </div> 
