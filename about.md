@@ -24,21 +24,21 @@ nav-menu: true
 
   <div class="4u 12u$(medium)">
 		<h3>Gene Co-Expression in Single-Cell Data - May 2025</h3>
-		<p>A simple and relatively lowly memory-intensive way to check how likely a large set of genes are to be co-expressed in the same cells in single cell or spatial datasets, available as a basic R package on [Github]([https://github.com/katlande/scCoExpress]).</p>	
+		<p>A simple and relatively lowly memory-intensive way to check how likely a large set of genes are to be co-expressed in the same cells in single cell or spatial datasets, available as a basic R package on [Github](https://github.com/katlande/scCoExpress).</p>	
 	 <ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
 	</div>
 <div class="4u 12u$(medium)">
 		<h3>A New Method for R-Based DMR Calling - October 2024</h3>
-		<p>My package whole genome bisulfite analysis package "PCBS" was pulished in [Oxford Bioinformatics]([https://academic.oup.com/bioinformatics/article/40/10/btae593/7811138]) today. What started as a pet project aimed at streamlining R-based WGBS analyses turned into a much bigger project when I investigated the accuracy of existing DMR callers in simulated data.</p>
+		<p>My package whole genome bisulfite analysis package "PCBS" was pulished in [Oxford Bioinformatics](https://academic.oup.com/bioinformatics/article/40/10/btae593/7811138) today. What started as a pet project aimed at streamlining R-based WGBS analyses turned into a much bigger project when I investigated the accuracy of existing DMR callers in simulated data.</p>
 	<ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
 	</div>
  <div class="4u 12u$(medium)">
 		<h3>RNA-seq Analysis Simplified - May 2024</h3>
-		<p>I combined the R tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the [vignette]([https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md]) here, or read more! </p>
+		<p>I combined the R tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the [vignette](https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md) here, or read more! </p>
 	 <ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
