@@ -56,7 +56,7 @@ nav-menu: true
 
 <ul class="alt">
 			<li><b>Coding Languages & Web Development:</b> Python, R, Bash, HTML, CSS, R Shiny, Quarto</li>
-			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS)</li>
+			<li><b>Analysis Experience:</b> RNA-seq, Single-cell (RNA, ATAC, CSP, TCR), ATAC-seq, ChIP-seq, HiChIP-seq, Whole Genome-seq (WGS), Whole Exome-seq (WES), Whole Genome Bisulfite-seq (WGBS), Spatial Transcriptomics (MERFISH, CosMX), Proteomics, Metabolomics, Metagenomics.</li>
 			<li><b>General Skills:</b> High Performance Computing, Git, Nextflow, Data Visualization, Pipeline Development, R Package Development, Science Communication, Technical Writing, Problem Solving, Organization</li>
 		</ul>
 <!--<div class="row"></div> -->
@@ -105,10 +105,22 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
+				<td>Bioinformatics Consultant</td>
+				<td>Adams Lab, Sanford Burnham Prebys - La Jolla</td>
+				<td>Vancouver, BC, Canada (Remote/Full-Time)</td>
+				<td>Jan 2025-Present</td>
+			</tr>
+			<tr>
+				<td>Research Assistant</td>
+				<td>Sweeney Lab, York University - Toronto</td>
+				<td>Vancouver, BC, Canada (Remote/Contract)</td>
+				<td>Nov 2024-Present</td>
+			</tr>
+			<tr>
 				<td>Bioinformatics Analyst</td>
 				<td>Integrative Genomics Core, Salk Institute for Biological Studies</td>
 				<td>San Diego, CA, USA</td>
-				<td>Nov 2021-Present</td>
+				<td>Nov 2021-Jan 2025</td>
 			</tr>
 			<tr>
 				<td>Graduate Researcher</td>
@@ -180,6 +192,7 @@ nav-menu: true
 <h3>Publicaton History</h3>
 <!--<hr class="major" />-->
 		<ul>
+			<li><b>2025 Co-Author, Science</b> SK Varanasi et al, Bile acid synthesis impedes tumor-specific T cell responses during liver cancer. Doi: 10.1126/science.adl4100</li>
 			<li><b>2024 Author, Bioinformatics</b> K Lande & A Williams, PCBS: an R package for fast and accurate analysis of bisulfite sequencing data. Doi: 10.1093/bioinformatics/btae593</li>
 			<li><b>2024 Co-Author, npj Systems Biology and Applications</b> M Trogdon et al, Systems modeling of oncogenic G-protein and GPCR signaling reveals unexpected differences in downstream pathway activation. Doi: 10.1038/s41540-024-00400-1</li>
 			<li><b>2024 Co-Author, JCI Insight</b> JC Lumibao et al, The impact of extracellular matrix on the precision medicine utility of pancreatic cancer patient-derived organoids. Doi: 10.1172/jci.insight.172419</li>
