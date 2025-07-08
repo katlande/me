@@ -24,7 +24,7 @@ nav-menu: true
 
   <div class="4u 12u$(medium)">
 		<h3>May 2025: Gene Co-Expression in Single-Cell Data</h3>
-		<p>A simple and relatively lowly memory-intensive way to check how likely a large set of genes are to be co-expressed in the same cells in single cell or spatial datasets, available as a basic R package on [Github](https://github.com/katlande/scCoExpress).</p>	
+		<p>A simple and relatively lowly memory-intensive way to check how likely a large set of genes are to be co-expressed in the same cells in single cell or spatial datasets, available as a basic R package on <a href="https://github.com/katlande/scCoExpress">Github</a>.</p>	
 	 <ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
@@ -38,7 +38,7 @@ nav-menu: true
 	</div>
  <div class="4u 12u$(medium)">
 		<h3>May 2024: RNAseq Analysis Simplified</h3>
-		<p>I combined the R tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the [vignette](https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md) here, or read more! </p>
+		<p>I combined the R tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the <a href="[https://github.com/katlande/scCoExpress](https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md)">vignette</a> here, or read more! </p>
 	 <ul class="actions">
 		<li><a href="generic.html" class="button">Learn More</a></li>
 	</ul>
