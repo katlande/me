@@ -9,7 +9,7 @@ show_tile: false
 <div id="main">
   <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="inner"> 
 		<header class="major">
 			<h2>Other Services</h2>
 		</header>
