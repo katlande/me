@@ -23,21 +23,21 @@ nav-menu: true
 		<h3>May 2025: Gene Co-Expression in Single-Cell Data</h3>
 		<p>A simple and relatively lowly memory-intensive way to check how likely a large set of genes are to be co-expressed in the same cells in single cell or spatial datasets, available as a basic R package on <a href="https://github.com/katlande/scCoExpress">Github</a>.</p>	
 	 <ul class="actions">
-		<li><a href="generic.html" class="button">Learn More</a></li>
+		<li><a href="all_posts.html" class="button">Learn More</a></li>
 	</ul>
 	</div>
 <div class="4u 12u$(medium)">
 		<h3>October 2024: A New Method for R-Based DMR Calling</h3>
 		<p>My package for whole genome bisulfite analysis analysis "PCBS" was pulished in <a href="https://academic.oup.com/bioinformatics/article/40/10/btae593/7811138">Oxford Bioinformatics</a> today. What started as a pet project aimed at streamlining and organizing existing R-based WGBS pipelines turned into a much bigger project when I investigated the accuracy of existing DMR callers in simulated data.</p>
 	<ul class="actions">
-		<li><a href="PCBS.md" class="button">Learn More</a></li>
+		<li><a href="all_posts.html" class="button">Learn More</a></li>
 	</ul>
 	</div>
  <div class="4u 12u$(medium)">
 		<h3>May 2024: RNAseq Analysis Simplified</h3>
 		<p>I combined the tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the <a href="https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md">vignette</a> here, or read more! </p>
 	 <ul class="actions">
-		<li><a href="generic.html" class="button">Learn More</a></li>
+		<li><a href="all_posts.html" class="button">Learn More</a></li>
 	</ul>
 	</div>
 </div>
