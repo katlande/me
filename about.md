@@ -30,7 +30,7 @@ nav-menu: true
 		<h3>October 2024: A New Method for R-Based DMR Calling</h3>
 		<p>My package for whole genome bisulfite analysis analysis "PCBS" was pulished in <a href="https://academic.oup.com/bioinformatics/article/40/10/btae593/7811138">Oxford Bioinformatics</a> today. What started as a pet project aimed at streamlining and organizing existing R-based WGBS pipelines turned into a much bigger project when I investigated the accuracy of existing DMR callers in simulated data.</p>
 	<ul class="actions">
-		<li><a href="blob/master/_posts/PCBS.md" class="button">Learn More</a></li>
+		<li><a href="PCBS.md" class="button">Learn More</a></li>
 	</ul>
 	</div>
  <div class="4u 12u$(medium)">
