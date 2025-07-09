@@ -35,7 +35,7 @@ nav-menu: true
 	</div>
  <div class="4u 12u$(medium)">
 		<h3>May 2024: RNAseq Analysis Simplified</h3>
-		<p>I combined the tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the <a href="https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md">vignette</a> here, or read more! </p>
+		<p>I combined the tools for RNAseq best practices into a simplified R package that helps beginners analyze their RNAseq data easily and make high-quality visualizations with limited hassle. Check out the <a href="https://github.com/katlande/RNAseq_Functions/blob/main/RNAseq_Tutorial.md">vignette</a> here! </p>
 	 <ul class="actions">
 		<li><a href="https://github.com/katlande/RNAseq_Functions" class="button">Learn More</a></li>
 	</ul>
