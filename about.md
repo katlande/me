@@ -109,12 +109,6 @@ nav-menu: true
 				<td>Jan 2025-Present</td>
 			</tr>
 			<tr>
-				<td>Research Assistant</td>
-				<td>Sweeney Lab, York University - Toronto</td>
-				<td>Vancouver, BC, Canada (Remote/Contract)</td>
-				<td>Nov 2024-Present</td>
-			</tr>
-			<tr>
 				<td>Bioinformatics Analyst</td>
 				<td>Integrative Genomics Core, Salk Institute for Biological Studies</td>
 				<td>San Diego, CA, USA</td>
